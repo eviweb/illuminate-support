@@ -6,7 +6,7 @@ Illuminate/Support package
 (https://travis-ci.org/eviweb/illuminate-support)
 How to install
 ==============
-Just run `composer require eviweb/illuminate-support && composer update`
+Just run `composer require eviweb/illuminate-support:dev-master`
 How to use
 ==========
 Simply depend on classes of this package instead of the original ones.
